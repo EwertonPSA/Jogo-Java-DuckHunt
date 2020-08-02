@@ -4,7 +4,7 @@
 O jogo implementado foi baseado no título Duck Hunt da Nintendo, porém foram realizadas modificações estéticas, na jogabilidade e na lógica, além de um novo modo multiplayer, em que o segundo player assume o papel do pato e tem que desviar dos tiros do caçador. Foi criado uma [documentação (Documentacao.pdf)](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Documenta%C3%A7%C3%A3o.pdf) do trabalho descrevendo o projeto detalhadamente.
 
 ## Execução do jogo
-Para jogar é necessário abaixar o arquivo [Executavel do Duck Hunt.zip](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Executavel%20do%20Duck%20Hunt.zip) e executar o arquivo [Duck Hunter.jar](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Duck%20Hunt.jar).
+Para jogar é necessário abaixar o arquivo [Executavel do Duck Hunt.zip](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Executavel%20do%20Duck%20Hunt.zip), extrair o arquivo e executar o [Duck Hunter.jar](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Duck%20Hunt.jar).
 
 ## Notas sobre o jogo
 1) O executável [Duck Hunter.jar](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Duck%20Hunt.jar) necessita dos sprints e musicas externas criadas, assim todos os arquivos para sua execução se encontram em [Executavel do Duck Hunt.zip](https://github.com/EwertonPSA/Jogo-Java-DuckHunt/blob/master/Executavel%20do%20Duck%20Hunt.zip).
